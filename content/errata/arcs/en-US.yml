@@ -51,6 +51,7 @@
   card: Agitator
 - errata:
     - text: "For clarity, this card should say 'from the attached card' rather than 'from here'. (Updated in Blighted Reach 2nd Printing and the Blighted Reach Errata Pack.)"
+    - text: "This card should say 'Tuck this card behind Edict 15 (not 25).'"
   card: Armistice
 - errata:
     - text: "To clarify the intended effect, we have added 'If a Vassal **secures** a card with a Court token, the Court token remains on the refilled card.'."
